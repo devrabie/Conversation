@@ -1,12 +1,12 @@
 {
-  "name": "devrabie/Conversation",
-  "description": "description",
+  "name": "devrabieConversation",
+  "description": "php Conversation",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "devrabie",
-      "email": "email@example.com"
+      "email": "devrabie1@gmail.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "YourNamespace\\": "src/"
+      "devrabie\\Conversation\\": "src/"
     }
   }
 }

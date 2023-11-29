@@ -1,5 +1,5 @@
 <?php
-namespace devrabie;
+namespace devrabie\Conversation;
 class Conversation
 {
     private static $redis;
